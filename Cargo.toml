@@ -1,0 +1,8 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["Joao Andrade <jjadonotenter@gmail.com>"]
+description = "Playing around with Rust"
+license = "MIT/Apache-2.0"
+
+[dependencies]
