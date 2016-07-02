@@ -1,5 +1,5 @@
 [package]
-name = "hello"
+name = "hello-rust"
 version = "0.1.0"
 authors = ["Joao Andrade <jjadonotenter@gmail.com>"]
 description = "Playing around with Rust"
